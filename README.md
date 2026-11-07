@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abubakar 👋
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently a 300 Level Computer Science undergraduate at **Ahmadu Bello University (ABU)**, Zaria, Nigeria.
