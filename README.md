@@ -4,7 +4,7 @@
 - 🎓 I'm currently a 300 Level Computer Science undergraduate at **Ahmadu Bello University (ABU)**, Zaria, Nigeria.
 - 💡 Passionate about software development, data science, and leveraging structured problem-solving to build efficient applications.
 - 🔭 Currently self-studying advanced data manipulation and numerical analysis.
-- 📫 How to reach me: [Your Email Address] | [LinkedIn Profile]
+- 📫 How to reach me: 2008abusadiq@gmail.com 
 - 🔗 GitHub: [github.com/Abskid01](https://github.com/Abskid01)
 
 ### 📊 Data Analysis Focus & Projects
